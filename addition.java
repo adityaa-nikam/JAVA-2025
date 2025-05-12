@@ -6,6 +6,9 @@
             int a = sc.nextInt();
             int b = sc.nextInt();
             //newwwwwo
+
+
+            //third new
             int sum = a+b;
             System.out.println(sum);
         }
