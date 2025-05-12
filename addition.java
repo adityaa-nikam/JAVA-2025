@@ -5,7 +5,7 @@
             Scanner sc = new Scanner(System.in);
             int a = sc.nextInt();
             int b = sc.nextInt();
-            //newwwww
+            //newwwwwo
             int sum = a+b;
             System.out.println(sum);
         }
